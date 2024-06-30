@@ -1,4 +1,4 @@
-name = input("სახელი: ")
+name = inputn("სახელი: ")
 surname = input("გვრი: ")
 age = input("ასაკი: ")
 country = input("ქვეყანა: ")
