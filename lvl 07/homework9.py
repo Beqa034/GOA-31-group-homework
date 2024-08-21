@@ -1,5 +1,5 @@
-name = inputn("სახელი: ")
-surname = input("გვრი: ")
+name = input("სახელი: ")
+surname = input("გვარი: ")
 age = input("ასაკი: ")
 country = input("ქვეყანა: ")
 colour = input("ფერი: ")
